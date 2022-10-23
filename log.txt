@@ -1,3 +1,0 @@
-++logs++
-IP: ::1
-Account: varshi; Pass: varshi;;
